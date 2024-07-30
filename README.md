@@ -1,2 +1,2 @@
 # sleep_health_life
-Veri bilimi
+Uykunun hayat standartlarına etkisi incelenmiştir.
